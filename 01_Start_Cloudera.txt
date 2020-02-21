@@ -1,0 +1,11 @@
+01. Launch Cloudera Express
+
+02. Conectar Cloudera Manager:
+    cloudera / cloudera
+
+03. Start:
+    1. HDFS
+    2. Yarn
+    3. Hive
+    4. Spark
+    5. Hue
